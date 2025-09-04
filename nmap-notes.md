@@ -177,6 +177,3 @@ nmap -p 22 --script ssh-brute 192.168.1.50
 * Always scan **your own lab / authorized targets only**.
 * Combine Nmap with **Wireshark** or **TCPDump** for deeper analysis.
 
-
-ister misin ben sana bunun için ayrıca **küçük bir “mindmap-style görsel” taslağı** da çıkarayım (ör. “Scan Types → Port Selection → Output → NSE” diye dallanan)?
-```
