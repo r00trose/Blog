@@ -1,7 +1,6 @@
 # 🔐 About This Blog  
 
-Welcome to my **Cybersecurity & OSINT corner**!  
-Here, I share my learning journey as a **junior SOC analyst in training**.  
+Welcome to my **Cybersecurity & OSINT corner**! Here, I share my learning journey as a **junior SOC analyst in training**.  
 
 ## 📌 What You’ll Find Here  
 - Write-ups on **Incident Response**  
