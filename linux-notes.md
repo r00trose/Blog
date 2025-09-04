@@ -1,4 +1,3 @@
-````markdown
 # 🐧 Linux Notes – Fundamentals
 
 These are my personal notes while learning Linux basics. I’m writing them down to keep concepts fresh and to build a quick reference for myself.  
