@@ -1,5 +1,17 @@
-#About This Blog
+# 🔐 About This Blog  
 
-Welcome to my cybersecurity & OSINT corner! Here, I share my learning journey as a junior SOC analyst in training. You’ll find write-ups on incident response, threat intelligence, OSINT case studies, and hands-on labs (TryHackMe, LetsDefend, HackTheBox).
+Welcome to my **Cybersecurity & OSINT corner**!  
+Here, I share my learning journey as a **junior SOC analyst in training**.  
 
-This blog is my way of documenting what I learn, breaking down complex concepts into simple notes, and hopefully helping others who are also starting their journey in cybersecurity.
+## 📌 What You’ll Find Here  
+- Write-ups on **Incident Response**  
+- Insights into **Threat Intelligence**  
+- **OSINT Case Studies**  
+- Hands-on labs from **TryHackMe, LetsDefend, and HackTheBox**  
+
+---
+
+✨ This blog is my way of:  
+- ✍️ Documenting what I learn  
+- 🔎 Breaking down complex concepts into simple notes  
+- 🤝 Helping others who are also starting their journey in cybersecurity  
