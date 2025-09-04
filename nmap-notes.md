@@ -69,4 +69,3 @@ nmap -sU 192.168.1.10
 * Combine Nmap with tools like **Wireshark** for deeper analysis.
 * Use `man nmap` for the full list of options (it’s huge!).
 
-```
