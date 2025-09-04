@@ -1,9 +1,5 @@
 # CTI
 
-tabii 🙌 senin seviyene uygun, hem cv’de kullanabileceğin hem de linkedin/blog paylaşımına yakışacak bir yazı hazırladım. dili **bilgilendirici, sade ve öğretici**:
-
----
-
 # What Are YARA Detection Rules and Why Do They Matter in Cybersecurity?
 
 In cybersecurity, one of the biggest challenges is identifying and classifying malicious files before they cause damage. This is where **YARA** comes into play.
@@ -66,9 +62,3 @@ Even though I’m not a malware reverse engineer, this experience gave me valuab
 ---
 
 ✍️ For me, working with YARA rules has been a great way to connect theory with practice. It’s not just about knowing tools, but also about understanding how attackers leave traces — and how defenders can spot them.
-
----
-
-📌 böyle bir yazıyı linkedin/blogunda paylaşırsan hem **teknik becerini** göstermiş olursun hem de “öğrenmeye açık ve paylaşımcı” imajı verirsin.
-
-ister misin ben sana bunun bir de **türkçe versiyonunu** hazırlayayım, daha geniş kitleye hitap etmen için?
