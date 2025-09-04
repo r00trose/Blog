@@ -1,7 +1,6 @@
 # 🌐 Nmap Notes – My Learning Journal
 
-These are my detailed notes while learning **Nmap (Network Mapper)**.  
-I use this as a personal reference to remember commands, options, and scanning techniques.  
+These are my detailed notes while learning **Nmap (Network Mapper)**. I use this as a personal reference to remember commands, options, and scanning techniques.  
 
 ---
 
