@@ -9,8 +9,6 @@ Here, I share my learning journey as a **junior SOC analyst in training**.
 - **OSINT Case Studies**  
 - Hands-on labs from **TryHackMe, LetsDefend, and HackTheBox**  
 
----
-
 ✨ This blog is my way of:  
 - ✍️ Documenting what I learn  
 - 🔎 Breaking down complex concepts into simple notes  
